@@ -1,0 +1,26 @@
+<meta>
+	<script src="fonts.lua" type="client" cache="false" />
+
+	<!-- fonts -->
+	<file src="fonts/Krub-Light.ttf" />
+
+	<!-- images -->
+	<!-- hud -->
+	<file src="images/hud/armor_bar.png" />
+	<file src="images/hud/armor_icon.png" />
+	<file src="images/hud/bar_border.png" />
+	<file src="images/hud/circle.png" />
+	<file src="images/hud/desire_bar.png" />
+	<file src="images/hud/desire_icon.png" />
+	<file src="images/hud/health_icon.png" />
+	<file src="images/hud/hunger_bar.png" />
+	<file src="images/hud/hunger_icon.png" />
+	<file src="images/hud/money_icon.png" />
+
+        <!-- notifications -->
+        <file src="images/notifications/bg.png" />
+
+	<!-- oop -->
+	<oop>true</oop>
+
+</meta>
