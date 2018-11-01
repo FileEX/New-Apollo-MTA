@@ -1,0 +1,9 @@
+<meta>
+	<script src="notif_class.lua" type="client" cache="false" />
+	<script src="notif_c.lua" type="client" cache="false" />
+	<script src="notif_s.lua" />
+
+	<export function="createNotif" type="shared" />
+
+	<oop>true</oop>
+</meta>
