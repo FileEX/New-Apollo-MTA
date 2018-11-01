@@ -1,0 +1,15 @@
+<meta>
+	<include resource="rpg-files" />
+	<script src="hud_class.lua" type="client" cache="false" />
+        <script src="hud_c.lua" type="client" cache="false" />
+        <script src="hud_s.lua" />
+
+	<file src="avt.png" />
+        <file src="circleMask.png" />
+        <!-- <file src="default.png" /> -->
+        <file src="av.fx" />
+
+	<export function="toggleHud" type="shared" />
+
+	<oop>true</oop>
+</meta>
